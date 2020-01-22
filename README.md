@@ -148,7 +148,7 @@ export const projectsData = [
 export const contactData = {
   cta: '', // call to action text for the contact section
   btn: '', // text inside the button
-  email: '',
+  email: 'rjraishart@gmail.com',
 };
 ```
 
